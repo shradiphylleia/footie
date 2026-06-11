@@ -1,13 +1,14 @@
 # footie
-
 docker but make it a small football match in the terminal.
 every docker command gets treated like a shot.
 if docker exits with `0`, you score.
 if docker exits with anything else, docker scores.
 then footie shows a little terminal goal.
 
-## build
+## demo:
+https://github.com/user-attachments/assets/e551b850-6d30-4a50-a1ff-fd0377095e88
 
+## build
 ```bash
 go build -o footie.exe .
 ```
